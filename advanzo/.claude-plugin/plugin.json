@@ -1,0 +1,20 @@
+{
+  "name": "advanzo",
+  "displayName": "Advanzo",
+  "version": "1.0.0",
+  "description": "Work with your Advanzo CRM from Claude Code: search contacts, companies and deals, read the history, stage changes you confirm, draft replies.",
+  "author": {
+    "name": "Advanzo",
+    "email": "hey@advanzo.ch",
+    "url": "https://advanzo.ch"
+  },
+  "homepage": "https://advanzo.ch/mcp",
+  "repository": "https://github.com/Uliasti-Agency/advanzo-agent-plugins",
+  "license": "MIT",
+  "keywords": ["crm", "sales", "pipeline", "contacts", "deals", "mcp"],
+  "icon": "./logo.svg",
+  "documentationUrl": "https://advanzo.ch/mcp",
+  "supportUrl": "mailto:hey@advanzo.ch",
+  "privacyPolicyUrl": "https://www.uliasti.com/policies/privacy",
+  "termsOfServiceUrl": "https://www.uliasti.com/policies/terms"
+}

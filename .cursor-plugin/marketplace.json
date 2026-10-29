@@ -1,0 +1,16 @@
+{
+  "name": "advanzo-plugins",
+  "owner": {
+    "name": "Advanzo"
+  },
+  "metadata": {
+    "description": "Official Advanzo CRM plugins for Cursor"
+  },
+  "plugins": [
+    {
+      "name": "advanzo",
+      "source": "./advanzo",
+      "description": "Work with your Advanzo CRM from Cursor"
+    }
+  ]
+}

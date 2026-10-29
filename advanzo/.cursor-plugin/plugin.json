@@ -1,0 +1,11 @@
+{
+  "name": "advanzo",
+  "version": "1.0.0",
+  "description": "Work with your Advanzo CRM from Cursor",
+  "author": {
+    "name": "Advanzo"
+  },
+  "skills": [
+    "./skills"
+  ]
+}

@@ -1,0 +1,18 @@
+{
+  "name": "advanzo",
+  "version": "1.0.0",
+  "description": "Work with your Advanzo CRM from Codex",
+  "author": {
+    "name": "Advanzo"
+  },
+  "skills": "./skills/",
+  "mcpServers": "./.mcp.json",
+  "interface": {
+    "displayName": "Advanzo",
+    "shortDescription": "Work with your Advanzo CRM from Codex",
+    "capabilities": [
+      "Read",
+      "Write"
+    ]
+  }
+}

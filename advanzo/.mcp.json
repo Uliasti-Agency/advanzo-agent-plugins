@@ -1,0 +1,8 @@
+{
+  "mcpServers": {
+    "advanzo": {
+      "type": "http",
+      "url": "https://advanzo.app/mcp"
+    }
+  }
+}

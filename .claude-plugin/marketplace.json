@@ -1,0 +1,20 @@
+{
+  "$schema": "https://anthropic.com/claude-code/marketplace.schema.json",
+  "name": "advanzo-plugins",
+  "owner": {
+    "name": "Advanzo",
+    "url": "https://advanzo.ch"
+  },
+  "metadata": {
+    "description": "Official Advanzo CRM plugins for Claude Code"
+  },
+  "plugins": [
+    {
+      "name": "advanzo",
+      "source": "./advanzo",
+      "description": "Work with your Advanzo CRM from Claude Code: search records, read the history, stage changes you confirm, draft replies.",
+      "category": "sales",
+      "tags": ["crm", "sales", "mcp", "advanzo"]
+    }
+  ]
+}

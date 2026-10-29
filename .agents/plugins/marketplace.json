@@ -1,0 +1,19 @@
+{
+  "name": "advanzo-plugins",
+  "interface": {
+    "displayName": "Advanzo"
+  },
+  "plugins": [
+    {
+      "name": "advanzo",
+      "source": {
+        "source": "local",
+        "path": "./advanzo"
+      },
+      "policy": {
+        "installation": "AVAILABLE",
+        "authentication": "ON_INSTALL"
+      }
+    }
+  ]
+}
