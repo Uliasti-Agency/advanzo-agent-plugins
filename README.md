@@ -1,6 +1,6 @@
 # Advanzo agent plugins
 
-Use your [Advanzo](https://advanzo.ch) CRM from Claude Code, Codex and Cursor.
+Use your [Advanzo](https://advanzo.ch/en-ch) CRM from Claude Code, Codex and Cursor.
 
 Advanzo is a sales CRM for small teams. This plugin connects your coding agent to the Advanzo MCP server and teaches it how to work with your pipeline: search contacts, companies and deals, read the full history of a record, prepare call briefings, stage changes that you confirm field by field, and draft replies grounded in the history. The agent acts as you, in one workspace, with your permissions. Nothing is written without your confirmation and nothing is ever deleted.
 
@@ -51,4 +51,4 @@ The MCP server is available on every Advanzo plan. The Free plan includes 200 ca
 
 Questions and bug reports: hey@advanzo.ch or [open an issue](https://github.com/Uliasti-Agency/advanzo-agent-plugins/issues).
 
-Documentation: https://advanzo.ch/mcp. Privacy policy: https://www.uliasti.com/policies/privacy.
+Documentation: https://advanzo.ch/en-ch/mcp. Privacy policy: https://www.uliasti.com/policies/privacy.

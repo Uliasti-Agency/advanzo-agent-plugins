@@ -6,14 +6,14 @@
   "author": {
     "name": "Advanzo",
     "email": "hey@advanzo.ch",
-    "url": "https://advanzo.ch"
+    "url": "https://advanzo.ch/en-ch"
   },
-  "homepage": "https://advanzo.ch/mcp",
+  "homepage": "https://advanzo.ch/en-ch/mcp",
   "repository": "https://github.com/Uliasti-Agency/advanzo-agent-plugins",
   "license": "MIT",
   "keywords": ["crm", "sales", "pipeline", "contacts", "deals", "mcp"],
   "icon": "./logo.svg",
-  "documentationUrl": "https://advanzo.ch/mcp",
+  "documentationUrl": "https://advanzo.ch/en-ch/mcp",
   "supportUrl": "mailto:hey@advanzo.ch",
   "privacyPolicyUrl": "https://www.uliasti.com/policies/privacy",
   "termsOfServiceUrl": "https://www.uliasti.com/policies/terms"

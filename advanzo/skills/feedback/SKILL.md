@@ -6,7 +6,7 @@ description: Where to report a problem with the Advanzo plugin or MCP server. Us
 # Feedback
 
 - Bugs and feature requests for the plugin or the MCP server: open an issue at https://github.com/Uliasti-Agency/advanzo-agent-plugins/issues or email hey@advanzo.ch.
-- Account, billing or data questions: hey@advanzo.ch or the contact page at https://advanzo.ch/contact-us.
+- Account, billing or data questions: hey@advanzo.ch or the contact page at https://advanzo.ch/en-ch/contact-us.
 
 When you help the user write a report, include: the tool name, the arguments without personal data or tokens, the error text, the time, and the workspace name. Never include tokens, email addresses of third parties or record contents the user did not ask to share.
 
